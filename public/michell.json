@@ -1,0 +1,220 @@
+{
+  "data": {
+    "about": "Soy un desarrollador autodidacta con una pasión por la programación y el diseño web. Desde que comencé mi carrera en el desarrollo web en 2022, he estado aprendiendo y mejorando mis habilidades de manera constante. Disfruto especialmente diseñar sitios web atractivos y funcionales, añadiendo elementos interactivos para mejorar la experiencia del usuario. Siempre estoy dispuesto a aprender y crecer en el campo del diseño web, enfocándome en fortalecer mis habilidades en algoritmos y lógica de programación.",
+    "certifications": [
+      {
+        "authority": "University of Helsinki",
+        "issued": "Aug 2024",
+        "name": "Full Stack Open React Native",
+        "url": "https://studies.cs.helsinki.fi/stats/api/certificate/fs-react-native-2020/en/991ac664a09e9a905881db609ea43d1d"
+      },
+      {
+        "authority": "freeCodeCamp",
+        "issued": "Apr 2023",
+        "name": "Scientific Computing with Python",
+        "url": "https://freecodecamp.org/certification/SaitamaPelon29/scientific-computing-with-python-v7"
+      },
+      {
+        "authority": "Unity",
+        "issued": "Dec 2022",
+        "name": "Full Stack Open Containers",
+        "url": "https://studies.cs.helsinki.fi/stats/api/certificate/fs-containers/en/335b4cc8dc1f988b8da15f82021af668"
+      },
+      {
+        "authority": "Terveystalo",
+        "issued": "Nov 2022",
+        "name": "Full Stack Open TypeScript",
+        "url": "https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/81408743a600e6148581cb37cce7c905"
+      },
+      {
+        "authority": "University of Helsinki",
+        "issued": "Oct 2022",
+        "name": "Full Stack Open GraphQL",
+        "url": "https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/80c18a3da379670fc3fb9bd6d2eb5285"
+      },
+      {
+        "authority": "University of Helsinki",
+        "issued": "Sep 2022",
+        "name": "Full Stack Open 2022",
+        "url": "https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/1e92b9b5734f74ca2e9b62a56f50aa52"
+      }
+    ],
+    "city": "",
+    "company": "Ubiqq",
+    "company_description": "Somos una startup que nos dedicamos a compartir el contenido de tu empresa en una forma diferente, original e impactante, permitiendo a tus clientes interactuar con ustedes en forma más directa.\n\nEstablecemos esta comunicación utilizando herramientas de webinar personalizadas a tu empresa, lo que nos permite contar con un medio ideal para lograr la conversión a leads; y aprovechamos el contenido obtenido para su futuro uso como marketing, capacitaciones internas, difusión, seminarios, blog, redes sociales y otros eventos que consideren que aportan a su misión.\n\nLo importante, damos a conocer tu expertise y conocimientos a tus clientes para destacarte del resto. Atrévete y crea ahora contenidos más variados y de calidad.",
+    "company_domain": "ubiqq.com",
+    "company_employee_range": "2-10",
+    "company_industry": "Advertising Services",
+    "company_linkedin_url": "https://www.linkedin.com/company/ubiqq",
+    "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGGFMkxTgoolg/company-logo_400_400/company-logo_400_400/0/1632255049789/ubiqq_logo?e=1750291200&v=beta&t=8G8DS5behh8q-cPrxXzwbFOa6sNpwgl2alZK9wQh08k",
+    "company_website": "https://ubiqq.com",
+    "company_year_founded": "",
+    "connection_count": 115,
+    "country": "Venezuela",
+    "courses": [],
+    "current_company_join_month": 10,
+    "current_company_join_year": 2023,
+    "current_job_duration": "1 yr 7 mos",
+    "educations": [
+      {
+        "activities": "",
+        "date_range": "Oct 2024 - Jun 2027",
+        "degree": "Ingeniero Informático",
+        "end_month": "Jun",
+        "end_year": 2027,
+        "field_of_study": "Ingeniería informática",
+        "school": "Universidad Politécnica Territorial de Puerto Cabello",
+        "school_id": "",
+        "school_linkedin_url": "",
+        "school_logo_url": "",
+        "start_month": "Oct",
+        "start_year": 2024
+      },
+      {
+        "activities": "",
+        "date_range": "Mar 2020 - Nov 2020",
+        "degree": "High School Diploma",
+        "end_month": "Nov",
+        "end_year": 2020,
+        "field_of_study": "Artes liberales y ciencias",
+        "school": "Liceo Santiago Escuti Orrego",
+        "school_id": "",
+        "school_linkedin_url": "",
+        "school_logo_url": "",
+        "start_month": "Mar",
+        "start_year": 2020
+      }
+    ],
+    "email": "",
+    "experiences": [
+      {
+        "company": "Ubiqq",
+        "company_id": "1080691",
+        "company_linkedin_url": "https://www.linkedin.com/company/1080691",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGGFMkxTgoolg/company-logo_200_200/company-logo_200_200/0/1632255049788/ubiqq_logo?e=1750291200&v=beta&t=99cfb_ZMxDxmNq8IyDsVpnCNIYdyJqGW0Yoc4PMJ_ss",
+        "company_public_url": "https://www.linkedin.com/company/ubiqq",
+        "date_range": "Oct 2023 - Present",
+        "description": "¡Hola! Estoy emocionado por compartir que actualmente estoy enriqueciendo mi trayectoria profesional en LinkedIn. Actualmente, me desempeño como Desarrollador Frontend Angular en Ubiqq, donde mi enfoque principal es mejorar el diseño y la experiencia del usuario, así como agregar nuevas funcionalidades que impulsan el crecimiento de la empresa. Esta experiencia me ha brindado la oportunidad de aprender constantemente, crecer como profesional y colaborar con un equipo altamente talentoso. Estoy ansioso por seguir ampliando mis habilidades y contribuir al éxito continuo de Ubiqq",
+        "duration": "1 yr 7 mos",
+        "end_month": "",
+        "end_year": "",
+        "is_current": true,
+        "job_type": "Full-time",
+        "location": "Región Metropolitana de Santiago, Chile · Remote",
+        "skills": "Hojas de estilos en cascada (CSS) · Karma · Angular CLI · Angular · HTML5 · Diseño guiado por el dominio · Bootstrap",
+        "start_month": 10,
+        "start_year": 2023,
+        "title": "Desarrollador de front-end"
+      },
+      {
+        "company": "BigScience",
+        "company_id": "",
+        "company_linkedin_url": "",
+        "company_logo_url": "",
+        "company_public_url": null,
+        "date_range": "May 2024 - May 2024",
+        "description": "Diseñé y maqueté una aplicación de sorteos, incluyendo una interfaz intuitiva y funcional.\nImplementé la funcionalidad para la carga de archivos Excel, facilitando la gestión de sorteos.\nAñadí diversas funcionalidades personalizadas según las necesidades del cliente.\nOptimicé la interfaz para mejorar la facilidad de uso y la eficiencia en la gestión de sorteos.\nAdapté el diseño y la funcionalidad de la aplicación para garantizar una experiencia de usuario fluida y satisfactoria.",
+        "duration": "1 mo",
+        "end_month": 5,
+        "end_year": 2024,
+        "is_current": false,
+        "job_type": "Self-employed",
+        "location": "Región Metropolitana de Santiago, Chile · Remote",
+        "skills": "Next.js · Tailwind CSS · HTML · Hojas de estilos en cascada (CSS) · TypeScript · Diseño de front-end · Desarrollo de aplicaciones web · Codificación de front-end · Lado del cliente",
+        "start_month": 5,
+        "start_year": 2024,
+        "title": "Desarrollador de front-end"
+      },
+      {
+        "company": "Comunidad MermeladaTech",
+        "company_id": "",
+        "company_linkedin_url": "",
+        "company_logo_url": "",
+        "company_public_url": null,
+        "date_range": "Jan 2024 - Jan 2024",
+        "description": "Diseñé un clon de Trello para la comunidad de Mermelada Tech y estoy agradecido por la oportunidad que me brindaron.",
+        "duration": "1 mo",
+        "end_month": 1,
+        "end_year": 2024,
+        "is_current": false,
+        "job_type": "Seasonal",
+        "location": "España · Remote",
+        "skills": "Figma · Prototipos de interfaces de usuario · Experiencia de usuario · Diseño de la interfaz de usuario · Diseño de interfaces web",
+        "start_month": 1,
+        "start_year": 2024,
+        "title": "Diseñador de interfaces de usuario"
+      },
+      {
+        "company": "Streetdevs",
+        "company_id": "98252928",
+        "company_linkedin_url": "https://www.linkedin.com/company/98252928",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGo1Lbd0cwOUg/company-logo_200_200/company-logo_200_200/0/1710858468751/streetdevs_logo?e=1750291200&v=beta&t=oM1LI0561cwVCyCMRCt2j42vNOvAfrncvYYef-plTT4",
+        "company_public_url": "https://www.linkedin.com/company/streetdevs",
+        "date_range": "Aug 2023 - Nov 2023",
+        "description": "Memoria actualizada\nAquí tienes una descripción para tu voluntariado en Street Devs:\n\nComo voluntario en Street Devs, diseñé la plataforma de reclutamiento y mentorías utilizando Figma. Me encargué de crear una interfaz intuitiva y atractiva para mejorar la experiencia de los usuarios en el proceso de reclutamiento y mentoría.",
+        "duration": "4 mos",
+        "end_month": 11,
+        "end_year": 2023,
+        "is_current": false,
+        "job_type": "Part-time",
+        "location": "Región Metropolitana de Santiago, Chile",
+        "skills": "Next.js · GitHub · HTML · Figma · Ui/UX",
+        "start_month": 8,
+        "start_year": 2023,
+        "title": "Desarrollador full stack"
+      }
+    ],
+    "first_name": "Michell",
+    "follower_count": 118,
+    "full_name": "Michell Castillo",
+    "headline": "Full Stack Developer | Angular | React | React Native | Node.js | AWS | MongoDB | TypeScript",
+    "honors_and_awards": [],
+    "hq_city": "Providencia",
+    "hq_country": "CL",
+    "hq_region": "Región Metropolitana de Santiago",
+    "is_creator": false,
+    "is_influencer": false,
+    "is_premium": false,
+    "is_verified": false,
+    "job_title": "Desarrollador de front-end",
+    "languages": [],
+    "last_name": "Castillo",
+    "linkedin_url": "https://www.linkedin.com/in/micahedev/",
+    "location": "Venezuela",
+    "organizations": [],
+    "patents": [],
+    "phone": "",
+    "profile_id": "1000180935",
+    "profile_image_url": "https://media.licdn.com/dms/image/v2/D4E03AQF9Gg4xa1jraQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729563724951?e=1750291200&v=beta&t=WhhC53Rshp0sJGWZZHTyY8qIlhm9Oe-At5h5K4C3YBI",
+    "profile_status": {
+      "contact_info_updated": "Updated less than 3 months ago",
+      "joined_date": "May 2022",
+      "profile_photo_updated": "Updated less than 6 months ago",
+      "verified": true
+    },
+    "projects": [
+      {
+        "associated": null,
+        "date_range": "Jun 2024 - Present",
+        "description": "Skills: Nextj · Hojas de estilos en cascada (CSS) · Ui/UX · Tailwind CSS · React.js · TypeScript",
+        "link": null,
+        "name": "EZ-JPN"
+      },
+      {
+        "associated": null,
+        "date_range": "May 2024 - May 2024",
+        "description": "Skills: Next.js · Tailwind CSS · TypeScript · HTML · Three.js · api",
+        "link": null,
+        "name": "Currency Converter"
+      }
+    ],
+    "public_id": "micahedev",
+    "publications": [],
+    "school": "Universidad Politécnica Territorial de Puerto Cabello",
+    "skills": "Pruebas API|testing|Jest|Cypress.io|Docker|Redis|React Native|TypeScript|SQL|HTML|Python|Apollo GraphQL|Redux.js|GitHub|GraphQL|HTML5|Git|React.js|Node.js|JavaScript|PHP|Laravel|Express.js|PostgreSQL|MongoDB|MySQL|Hojas de estilos en cascada (CSS)|Webpack|Capacidad de análisis|Investigación|Autoaprendizaje|Resolución de problemas|Resolución de conflictos|Trabajo en equipo|Nextj|Prototipos de interfaces de usuario|Experiencia de usuario|Diseño de la interfaz de usuario|Diseño de interfaces web|Figma|Ui/UX|Diseño de front-end|Desarrollo de aplicaciones web|Codificación de front-end|Lado del cliente|Next.js|Tailwind CSS|Three.js|api|Angular",
+    "state": "",
+    "urn": "ACoAADudjMcBF2QF-nfXu6jvxpEzz1euhgN6ivA",
+    "volunteers": []
+  },
+  "message": "ok"
+}
