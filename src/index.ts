@@ -5,6 +5,7 @@ import "dotenv/config";
 import path from "path";
 
 const app = express();
+const PORT = process.env.PORT;
 
 app.use(express.static("public"));
 app.use(express.json());
@@ -21,7 +22,7 @@ app.post("/create", async (req: Request, res: Response) => {
 
     res.setHeader(
       "Content-Type",
-      "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
     );
     res.setHeader("Content-Disposition", `attachment; filename=${filename}`);
     res.send(buffer);
@@ -41,4 +42,4 @@ app.use((req, res, next) => {
   });
 });
 
-app.listen(3123, () => console.log("Server running on port 3123"));
+app.listen(PORT, () => console.log("Server running on port", PORT));
