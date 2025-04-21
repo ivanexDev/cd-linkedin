@@ -1,6 +1,4 @@
-import { Document, Packer, Paragraph, HeadingLevel } from "docx";
-import * as fs from "fs";
-import { getUser } from "../api/getUser";
+import { Document, Packer } from "docx";
 import {
   cvHeader,
   cvSummary,
@@ -10,9 +8,10 @@ import {
 } from "./cv-sections";
 import { cvCertifications } from "./cv-sections/cvCertifications";
 import { cvTechnicalSkills } from "./cv-sections/cvTechnicalSkills";
+import { getLinkedinUser } from "../api/getLinkedinUser";
 
 export const createDocx = async (url: string) => {
-  const user = await getUser(url);
+  const user = await getLinkedinUser(url);
 
   const doc = new Document({
     styles: {
@@ -28,6 +27,10 @@ export const createDocx = async (url: string) => {
       {
         properties: {
           page: {
+            size: {
+              width: 12240, // 8.5 pulgadas
+              height: 15840, // 11 pulgadas
+            },
             margin: {
               top: 720, // 0.5"
               bottom: 720,
@@ -74,8 +77,13 @@ export const createDocx = async (url: string) => {
     ],
   });
 
+  const buffer = await Packer.toBuffer(doc);
+  console.log("created");
+
   // Guardar como archivo .docx
-  const data = await Packer.toBuffer(doc);
-  const name = user?.mainInfo.name.replace(/ /g, "-").toLowerCase();
-  fs.writeFileSync(`${__dirname}/cvs/${name}.docx`, data);
+  // const data = await Packer.toBuffer(doc);
+  // const name = user?.mainInfo.name.replace(/ /g, "-").toLowerCase();
+  // fs.writeFileSync(`${__dirname}/cvs/${name}.docx`, data);
+
+  return { buffer, filename: `${name}.docx` };
 };

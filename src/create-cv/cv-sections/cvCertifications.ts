@@ -2,7 +2,7 @@ import { HeadingLevel, Paragraph, TextRun } from "docx";
 import { Certification } from "../../domain/interfaces/cvData.interface";
 
 export const cvCertifications = (
-  certifications: Certification[] | undefined
+  certifications: Certification[] | undefined,
 ) => {
   const certs = certifications?.map((cert) => {
     return new Paragraph({
