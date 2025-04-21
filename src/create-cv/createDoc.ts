@@ -80,9 +80,9 @@ export const createDocx = async (url: string) => {
   const buffer = await Packer.toBuffer(doc);
   console.log("created");
 
+  const name = user?.mainInfo.name.replace(/ /g, "-").toLowerCase();
   // Guardar como archivo .docx
   // const data = await Packer.toBuffer(doc);
-  // const name = user?.mainInfo.name.replace(/ /g, "-").toLowerCase();
   // fs.writeFileSync(`${__dirname}/cvs/${name}.docx`, data);
 
   return { buffer, filename: `${name}.docx` };

@@ -4,7 +4,7 @@ import { User } from "./interfaces/User.interface";
 import { CvData } from "../domain/interfaces/cvData.interface";
 
 export const getLinkedinUser = async (
-  url: string,
+  url: string
 ): Promise<CvData | undefined> => {
   const options = {
     method: "GET",
@@ -25,7 +25,6 @@ export const getLinkedinUser = async (
   };
 
   try {
-    console.log(options);
     const user = await axios.request<User>(options);
 
     return userAdapter(user.data);
